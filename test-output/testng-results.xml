@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="21" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1252063" started-at="2020-09-18T10:44:27 EDT" finished-at="2020-09-18T11:05:19 EDT">
+    <groups>
+    </groups>
+    <test name="Dollar Days Test" duration-ms="1252063" started-at="2020-09-18T10:44:27 EDT" finished-at="2020-09-18T11:05:19 EDT">
+      <class name="com.dollardays.testcases.Team7DDSortByTestcase">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="10347" started-at="2020-09-18T10:44:28 EDT" finished-at="2020-09-18T10:44:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="40044" started-at="2020-09-18T10:44:39 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:45:19 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Best Match, TestCase=SortBy with BestMatch option & View option 12, ProductName=Food, TCID=TC1, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=12, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5413" started-at="2020-09-18T10:45:19 EDT" finished-at="2020-09-18T10:45:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="9075" started-at="2020-09-18T10:45:24 EDT" finished-at="2020-09-18T10:45:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="37481" started-at="2020-09-18T10:45:33 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:46:11 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Best Match, TestCase=SortBy with Best Match option & View option 24, ProductName=Food, TCID=TC2, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=24, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5329" started-at="2020-09-18T10:46:11 EDT" finished-at="2020-09-18T10:46:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="8643" started-at="2020-09-18T10:46:16 EDT" finished-at="2020-09-18T10:46:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="39226" started-at="2020-09-18T10:46:25 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:47:04 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Best Match, TestCase=SortBy with Best Match option & View option 48, ProductName=Food, TCID=TC3, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=48, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5291" started-at="2020-09-18T10:47:04 EDT" finished-at="2020-09-18T10:47:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="8652" started-at="2020-09-18T10:47:09 EDT" finished-at="2020-09-18T10:47:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="40475" started-at="2020-09-18T10:47:18 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:47:58 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Popularity, TestCase=SortBy with Popularity option & View option 12, ProductName=Food, TCID=TC4, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=12, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5323" started-at="2020-09-18T10:47:58 EDT" finished-at="2020-09-18T10:48:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="9377" started-at="2020-09-18T10:48:04 EDT" finished-at="2020-09-18T10:48:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="39406" started-at="2020-09-18T10:48:13 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:48:52 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Popularity, TestCase=SortBy with Popularity option & View option 24, ProductName=Food, TCID=TC5, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=24, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5030" started-at="2020-09-18T10:48:52 EDT" finished-at="2020-09-18T10:48:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="9047" started-at="2020-09-18T10:48:57 EDT" finished-at="2020-09-18T10:49:06 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="42790" started-at="2020-09-18T10:49:06 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:49:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Popularity, TestCase=SortBy with Popularity option & View option 48, ProductName=Food, TCID=TC6, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=48, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5304" started-at="2020-09-18T10:49:49 EDT" finished-at="2020-09-18T10:49:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="9224" started-at="2020-09-18T10:49:55 EDT" finished-at="2020-09-18T10:50:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="40622" started-at="2020-09-18T10:50:04 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:50:44 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Newest First, TestCase=SortBy with NewestFirst option & View option 12, ProductName=Food, TCID=TC7, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=12, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5306" started-at="2020-09-18T10:50:44 EDT" finished-at="2020-09-18T10:50:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="9236" started-at="2020-09-18T10:50:50 EDT" finished-at="2020-09-18T10:50:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="39611" started-at="2020-09-18T10:50:59 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:51:39 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Newest First, TestCase=SortBy with NewestFirst option & View option 24, ProductName=Food, TCID=TC8, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=24, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="1097" started-at="2020-09-18T10:51:39 EDT" finished-at="2020-09-18T10:51:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="8943" started-at="2020-09-18T10:51:40 EDT" finished-at="2020-09-18T10:51:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="40631" started-at="2020-09-18T10:51:49 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:52:29 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Newest First, TestCase=SortBy with NewestFirst option & View option 48, ProductName=Food, TCID=TC9, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=48, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5291" started-at="2020-09-18T10:52:29 EDT" finished-at="2020-09-18T10:52:35 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="8941" started-at="2020-09-18T10:52:35 EDT" finished-at="2020-09-18T10:52:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="40545" started-at="2020-09-18T10:52:43 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:53:24 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Price per Unit (Low to high), TestCase=SortBy with Price per Unit LtoH option & View option 12, ProductName=Food, TCID=TC10, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=12, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5314" started-at="2020-09-18T10:53:24 EDT" finished-at="2020-09-18T10:53:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="10079" started-at="2020-09-18T10:53:29 EDT" finished-at="2020-09-18T10:53:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="39158" started-at="2020-09-18T10:53:39 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:54:19 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Price per Unit (Low to high), TestCase=SortBy with Price per Unit LtoH option & View option 24, ProductName=Food, TCID=TC11, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=24, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5339" started-at="2020-09-18T10:54:19 EDT" finished-at="2020-09-18T10:54:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="16718" started-at="2020-09-18T10:54:24 EDT" finished-at="2020-09-18T10:54:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="51085" started-at="2020-09-18T10:54:41 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:55:32 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Price per Unit (Low to high), TestCase=SortBy with Price per Unit LtoH option & View option 48, ProductName=Food, TCID=TC12, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=48, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5356" started-at="2020-09-18T10:55:32 EDT" finished-at="2020-09-18T10:55:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="14618" started-at="2020-09-18T10:55:37 EDT" finished-at="2020-09-18T10:55:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="50422" started-at="2020-09-18T10:55:52 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:56:42 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Price per Unit (High to low), TestCase=SortBy with Price per Unit HtoL option & View option 12, ProductName=Food, TCID=TC13, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=12, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="1103" started-at="2020-09-18T10:56:42 EDT" finished-at="2020-09-18T10:56:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="15683" started-at="2020-09-18T10:56:43 EDT" finished-at="2020-09-18T10:56:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="49703" started-at="2020-09-18T10:56:59 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:57:49 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Price per Unit (High to low), TestCase=SortBy with Price per Unit HtoL option & View option 24, ProductName=Food, TCID=TC14, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=24, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5303" started-at="2020-09-18T10:57:49 EDT" finished-at="2020-09-18T10:57:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="17389" started-at="2020-09-18T10:57:54 EDT" finished-at="2020-09-18T10:58:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="52837" started-at="2020-09-18T10:58:11 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T10:59:04 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Price per Unit (High to low), TestCase=SortBy with Price per Unit HtoL option & View option 48, ProductName=Food, TCID=TC15, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=48, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5275" started-at="2020-09-18T10:59:04 EDT" finished-at="2020-09-18T10:59:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="16690" started-at="2020-09-18T10:59:09 EDT" finished-at="2020-09-18T10:59:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="50955" started-at="2020-09-18T10:59:26 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T11:00:17 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Alphabetically by Name, TestCase=SortBy with Alphabetically & View option 12, ProductName=Food, TCID=TC16, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=12, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5029" started-at="2020-09-18T11:00:17 EDT" finished-at="2020-09-18T11:00:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="10025" started-at="2020-09-18T11:00:22 EDT" finished-at="2020-09-18T11:00:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="FAIL" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="1036" started-at="2020-09-18T11:00:32 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T11:00:33 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Alphabetically by Name, TestCase=SortBy with Alphabetically & View option 24, ProductName=Food, TCID=TC17, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=24, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space(.)='Sign in']"}
+  (Session info: chrome=85.0.4183.102)
+  (Driver info: chromedriver=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}),platform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-A60CPS8', ip: '192.168.1.185', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64271}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}), userDataDir=C:\Users\vaishu\AppData\Local\Temp\scoped_dir13388_414420744}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=85.0.4183.102, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 70dad2cfdff8e38899b769f866a9b79d
+*** Element info: {Using=xpath, value=//a[normalize-space(.)='Sign in']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space(.)='Sign in']"}
+  (Session info: chrome=85.0.4183.102)
+  (Driver info: chromedriver=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}),platform=Windows NT 10.0.19041 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-A60CPS8', ip: '192.168.1.185', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64271}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}), userDataDir=C:\Users\vaishu\AppData\Local\Temp\scoped_dir13388_414420744}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=85.0.4183.102, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 70dad2cfdff8e38899b769f866a9b79d
+*** Element info: {Using=xpath, value=//a[normalize-space(.)='Sign in']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy9.click(Unknown Source)
+at com.dollardays.pages.LoginPage.login(LoginPage.java:74)
+at com.dollardays.testcases.Team7DDSortByTestcase.SortBy_View(Team7DDSortByTestcase.java:35)
+at sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="4950" started-at="2020-09-18T11:00:33 EDT" finished-at="2020-09-18T11:00:38 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="15840" started-at="2020-09-18T11:00:38 EDT" finished-at="2020-09-18T11:00:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="50531" started-at="2020-09-18T11:00:54 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T11:01:44 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Alphabetically by Name, TestCase=SortBy with Alphabetically & View option 48, ProductName=Food, TCID=TC18, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=48, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5341" started-at="2020-09-18T11:01:44 EDT" finished-at="2020-09-18T11:01:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="14709" started-at="2020-09-18T11:01:50 EDT" finished-at="2020-09-18T11:02:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="53993" started-at="2020-09-18T11:02:05 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T11:02:59 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Case Quantity, TestCase=SortBy with CaseQuantity & View option 12, ProductName=Food, TCID=TC19, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=12, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5343" started-at="2020-09-18T11:02:59 EDT" finished-at="2020-09-18T11:03:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="14170" started-at="2020-09-18T11:03:04 EDT" finished-at="2020-09-18T11:03:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="46396" started-at="2020-09-18T11:03:18 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T11:04:04 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Case Quantity, TestCase=SortBy with CaseQuantity & View option 24, ProductName=Food, TCID=TC20, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=24, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5332" started-at="2020-09-18T11:04:04 EDT" finished-at="2020-09-18T11:04:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="setUpBrowser" is-config="true" duration-ms="14368" started-at="2020-09-18T11:04:10 EDT" finished-at="2020-09-18T11:04:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="SortBy_View(java.util.Hashtable)[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="SortBy_View" duration-ms="49935" started-at="2020-09-18T11:04:24 EDT" data-provider="dd-dataprovider" finished-at="2020-09-18T11:05:14 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SortBy=Case Quantity, TestCase=SortBy with CaseQuantity & View option 48, ProductName=Food, TCID=TC21, SheetName=SortBy, Runmode=Yes, UserName=srikanthtesting100@gmail.com, ViewBy=48, Password=cGFzc3dvcmQxMjM=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy_View -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.dollardays.testcases.Team7DDSortByTestcase@3444d69d]" name="quit" is-config="true" duration-ms="5040" started-at="2020-09-18T11:05:14 EDT" finished-at="2020-09-18T11:05:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.dollardays.testcases.Team7DDSortByTestcase -->
+    </test> <!-- Dollar Days Test -->
+  </suite> <!-- Suite -->
+</testng-results>
