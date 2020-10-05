@@ -114,7 +114,7 @@
 				<version>2.16</version>
 				<configuration>
 					 <suiteXmlFiles>
-						<suiteXmlFile>config/login.xml</suiteXmlFile>
+					
 						<suiteXmlFile>config/Team7DDPaginationTestcase.xml</suiteXmlFile>
 						<suiteXmlFile>config/Team7DDSearchBarTestCase.xml</suiteXmlFile>
 						<suiteXmlFile>config/Team7DDSortByTestcase.xml</suiteXmlFile>
